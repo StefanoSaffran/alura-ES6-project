@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="client/assets/logo.png" />
-</p>
-
 ### This is a study project only and was developed following the Advanced JavaScript course from Alura :books:
 
 
